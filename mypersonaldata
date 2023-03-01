@@ -1,21 +1,12 @@
 {
-    "array1": [
-        {
-            "Full_name": "Jollyver Piscos",
-            "age": 22,
-            "favorite_qoutes": [
-                “To live is the rarest thing in the world. Most people exist, that is all.”,
-                “It is better to be hated for what you are than to be loved for what you are not.”
-            ]
-        }
-        
-    ],
-    "array2": [
-        {
-            "section": "A",
-            "code": "T221",
-            "email": "2001103921@student.buksu.edu.ph"
-        }
-       
-    ]
+        "info": [
+                {
+                        "Name": "Jollyver Piscos",
+                        "Age": 22,
+                        "Quotes": “Life isn't about finding yourself. Life is about creating yourself.”,
+                        "ClassSection": "BSIT-3A",
+                        "SectionCode": "T221",
+                        "Email": "2001103921@student.buksu.edu.ph"
+                }
+                ]
 }
