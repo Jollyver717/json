@@ -1,18 +1,18 @@
 {
-	"info": 
-	[
-		{
-			"Name": "Jollyver Sujetado Piscos",
-			"Age": 21,
-			"quotes": "Do your best at all times"
-		}
-	],
 	"info1": 
 	[
 		{
-			"classSection": "BSIT-3A",
-			"sectionCode": "T221",
-			"buksuEmail": "2001103921@student.buksu.edu.ph"
+			"name": "Jollyver Sujetado Piscos",
+			"age": 21,
+			"quotes": "Do your best at all times"
+		}
+	],
+	"info2": 
+	[
+		{
+			"classsection": "BSIT-3A",
+			"sectioncode": "T221",
+			"buksuemail": "2001103921@student.buksu.edu.ph"
 		}
 	]				
 }
